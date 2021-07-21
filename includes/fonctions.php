@@ -5,8 +5,8 @@ function horsTaxe($bonnetPrix2)
     return $bonnetPrix2 / 1.2;
 } 
 
-
-
+?>
+<?php
 function affichageUneLigne($bonnetPrix2)
 {
     echo $bonnetPrix2[0].' / ';
