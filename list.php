@@ -1,7 +1,6 @@
 <?php
 
-include_once 'include/header.php';
-include_once 'include/footer.php';
+include_once 'includes/header.php';
 
 ?>
 
@@ -54,6 +53,6 @@ include_once 'include/footer.php';
 
 <?php
 
-include 'include/footer.php';
+include_once 'includes/footer.php';
 
 ?>
